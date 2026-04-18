@@ -1,347 +1,508 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shahid%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Crafting%20Intelligence%20into%20Infrastructure&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0a1a,60:2d0a2d,100:0a0a1a&height=220&section=header&text=%E5%BF%83%E3%82%92%E8%BE%BC%E3%82%81%E3%81%9F%E3%82%B3%E3%83%BC%E3%83%89&fontSize=28&fontColor=e879f9&animation=twinkling&fontAlignY=35&desc=Shahid%20J%20%E2%80%94%20Backend%20Engineer%20%7C%20AI%20Architect%20%7C%20Distributed%20Systems&descAlignY=58&descAlign=50&descSize=15&fontAlign=50"/>
 
 </div>
 
 <div align="center">
-  
-<!-- Dynamic Typing with Multiple Lines -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=140&lines=Backend+Engineer+%F0%9F%9A%80;Building+AI-Powered+Distributed+Systems;Turning+Coffee+%E2%98%95+into+Production+Code;Based+in+India+%F0%9F%87%AE%F0%9F%87%B3+%7C+Impact+Worldwide+%F0%9F%8C%8D" alt="Typing SVG" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=700&size=15&duration=3000&pause=1000&color=E879F9&center=true&vCenter=true&width=600&height=40&lines=%E4%B8%80%E8%A1%8C%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E3%80%81%E4%B8%80%E6%9C%AC%E3%81%AE%E5%89%A3%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E9%8B%AD%E3%81%8F%E3%81%82%E3%82%8C" alt="One line of code, sharp as a sword" />
+
+*"一行のコードは、一本の剣のように鋭くあれ"*
+*— "Let every line of code be as sharp as a sword"*
 
 </div>
 
-<!-- Animated Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-6366F1?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=1e293b" />
-  <img src="https://img.shields.io/badge/Specialty-AI%20Integration-F59E0B?style=for-the-badge&logo=openai&logoColor=white&labelColor=1e293b" />
-  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" />
-</p>
+<br>
 
-<p align="center">
-  <a href="https://shahid-port.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Live_Now-FF5722?style=for-the-badge&logoColor=white" /></a>
-  <a href="mailto:mjshahid48@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Let's_Connect-EA4335?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shahidj2004/"><img src="https://img.shields.io/badge/💼_LinkedIn-Follow-0A66C2?style=for-the-badge&logoColor=white" /></a>
-</p>
+<div align="center">
+
+```
+　　　　　　 ／￣￣＼
+　　　　 ／　　　　　 ＼
+　　　 ／　エンジニア　 ＼
+　　 ／　Backend + AI 侍  ＼
+　　＼＿＿＿＿＿＿＿＿＿＿／
+　　　　　　‖　‖
+　　　　　　‖　‖   < Building systems that scale like Mt. Fuji 🗻
+　　　　　　‖　‖
+```
+
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/⛩️_Portfolio-Visit-e879f9?style=for-the-badge&labelColor=0a0a1a)](https://shahid-port.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-c084fc?style=for-the-badge&labelColor=0a0a1a)](mailto:mjshahid48@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🏯_LinkedIn-Connect-a855f7?style=for-the-badge&labelColor=0a0a1a)](https://www.linkedin.com/in/shahidj2004/)
+[![GitHub](https://img.shields.io/badge/🌸_GitHub-Follow-9333ea?style=for-the-badge&labelColor=0a0a1a)](https://github.com/shah48l)
+
+</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+```
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　一ノ型　•　THE ENGINEER'S SCROLL
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+```
 
-## 🎯 The Architect Behind the Code
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ What I Build
+### 🏯 武士道 — The Engineer's Way
 
 ```yaml
-role: Backend Engineer
-mission: Transform complex distributed systems into elegant solutions
+# bushido.yaml — Code Philosophy
 
-expertise:
-  architecture:
-    - Microservices Orchestration
-    - Event-Driven Systems
-    - High-Throughput APIs
-    - Real-Time Data Pipelines
-  
-  ai_integration:
-    - Multi-Agent LLM Systems
-    - RAG Architectures
-    - ML Model Deployment
-    - Production AI Pipelines
+name: Shahid J
+title: "Backend Engineer 侍"
+dojo: EPAM Systems, Hyderabad
+clan: Distributed Systems + AI
 
-current_stack:
-  backend: [Python, FastAPI, Django, GraphQL]
-  ai_ml: [LangChain, LangGraph, PyTorch, Anthropic Claude]
-  data: [PostgreSQL, MongoDB, Redis, ChromaDB]
-  infra: [Docker, AWS, Celery, Kafka]
+bushido_of_engineering:
+  仁 (Jin — Benevolence):
+    - Write code others can read
+    - Review with kindness
+    - Mentor when you can
+
+  義 (Gi — Righteousness):
+    - Ship only what works
+    - No shortcuts in production
+    - Tests before deploy
+
+  礼 (Rei — Respect):
+    - Clean architecture always
+    - Document what matters
+    - Credit where it is due
+
+  智 (Chi — Wisdom):
+    - Design before you build
+    - Question before you code
+    - Profile before you optimize
+
+  信 (Shin — Loyalty):
+    - Own your bugs
+    - Protect your users
+    - Stand by your design
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Current Mission
+### ⚔️ 修行 — Current Training Arc
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding">
+```python
+# 修行 = Shugyō (Austere Training)
 
-**🎯 Short-term Goals**
-- 📈 Scaling AI systems to production
-- 🔧 Contributing to Rust ecosystem
-- 📚 IEEE research on distributed ML
+class SamuraiEngineer:
+    name = "Shahid J"
+    origin = "India 🇮🇳"
 
-**🌟 Long-term Vision**
-- Build systems that process billions of events
-- Lead engineering teams solving hard problems
-- Open-source tools that developers love
+    mastered_arts = [
+        "FastAPI",        # 疾風 Swift Wind
+        "Django + DRF",   # 大地 Earth Pillar
+        "LangGraph",      # 霧隠 Mist Hide
+        "PostgreSQL",     # 岩  Iron Rock
+        "Docker",         # 変化 Transformation
+    ]
 
-**📊 Impact**
-- 🏆 IEEE Published Researcher
-- 🎤 PyConf Hyderabad Speaker
-- 💻 Production systems serving real users
+    current_training = [
+        "Rust",           # 鋼  The Steel Path
+        "Kubernetes",     # 天  The Sky Domain
+        "Event Sourcing", # 時  Mastery of Time
+        "gRPC",           # 雷  Thunder Speed
+    ]
+
+    achievements = [
+        "⛩️  IEEE Published — Feb 2025",
+        "🎤  PyConf Hyderabad Speaker",
+        "🏯  Production Systems @ EPAM",
+        "📜  Multi-Agent AI Architect",
+    ]
+
+    def philosophy(self):
+        return "Sharp code. Silent systems. Zero downtime."
+```
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-## 💻 Tech Arsenal
+---
 
-<details open>
-<summary><b>🔥 Core Technologies (Click to expand)</b></summary>
+```
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　二ノ型　•　THE ARSENAL SCROLL
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+```
+
+<div align="center">
+
+### ⚔️ 武器庫 — The Weapon Vault
+
+| 武器 Weapon | 流派 School | 達人度 Mastery |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-0a0a1a?style=for-the-badge&logo=python&logoColor=e879f9) | 言語 Language | `████████████` Master |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a1a?style=for-the-badge&logo=typescript&logoColor=c084fc) | 言語 Language | `██████████░░` Advanced |
+| ![Rust](https://img.shields.io/badge/Rust-0a0a1a?style=for-the-badge&logo=rust&logoColor=a855f7) | 鋼の道 Steel Path | `████░░░░░░░░` Training |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-0a0a1a?style=for-the-badge&logo=fastapi&logoColor=e879f9) | 疾風流 Swift School | `████████████` Master |
+| ![Django](https://img.shields.io/badge/Django-0a0a1a?style=for-the-badge&logo=django&logoColor=c084fc) | 大地流 Earth School | `██████████░░` Advanced |
+| ![LangGraph](https://img.shields.io/badge/🦜_LangGraph-0a0a1a?style=for-the-badge&logoColor=a855f7) | 霧隠流 Mist School | `█████████░░░` Advanced |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a1a?style=for-the-badge&logo=postgresql&logoColor=e879f9) | 岩流 Rock School | `██████████░░` Advanced |
+| ![Docker](https://img.shields.io/badge/Docker-0a0a1a?style=for-the-badge&logo=docker&logoColor=c084fc) | 変化流 Change School | `██████████░░` Advanced |
+| ![Redis](https://img.shields.io/badge/Redis-0a0a1a?style=for-the-badge&logo=redis&logoColor=a855f7) | 炎流 Flame School | `████████░░░░` Skilled |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-0a0a1a?style=for-the-badge&logo=pytorch&logoColor=e879f9) | 錬金流 Alchemy School | `████████░░░░` Skilled |
+
+</div>
+
+<br>
+
+<details>
+<summary><b>🗡️ 全武器目録 — Full Arsenal (Click to unfurl the scroll)</b></summary>
 <br>
 
 <div align="center">
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-Learning-000000?style=flat-square&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-Intermediate-FA7343?style=flat-square&logo=swift&logoColor=white) |
-| **Backend Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
-| **AI & ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square) ![Anthropic](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
-| **Message Queues** | ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) |
+**言語 — Languages**
+
+![Python](https://img.shields.io/badge/Python-1a0a2e?style=flat-square&logo=python&logoColor=e879f9)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0a2e?style=flat-square&logo=typescript&logoColor=c084fc)
+![Rust](https://img.shields.io/badge/Rust-1a0a2e?style=flat-square&logo=rust&logoColor=a855f7)
+![Swift](https://img.shields.io/badge/Swift-1a0a2e?style=flat-square&logo=swift&logoColor=e879f9)
+
+**刀 — Backend Arts**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-1a0a2e?style=flat-square&logo=fastapi&logoColor=e879f9)
+![Django](https://img.shields.io/badge/Django-1a0a2e?style=flat-square&logo=django&logoColor=c084fc)
+![DRF](https://img.shields.io/badge/Django_REST-1a0a2e?style=flat-square&logo=django&logoColor=a855f7)
+![GraphQL](https://img.shields.io/badge/GraphQL-1a0a2e?style=flat-square&logo=graphql&logoColor=e879f9)
+
+**霊 — AI & Intelligence**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-1a0a2e?style=flat-square&logo=pytorch&logoColor=e879f9)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a0a2e?style=flat-square&logo=tensorflow&logoColor=c084fc)
+![LangChain](https://img.shields.io/badge/LangChain-1a0a2e?style=flat-square&logoColor=a855f7)
+![Anthropic](https://img.shields.io/badge/Claude_AI-1a0a2e?style=flat-square&logo=anthropic&logoColor=e879f9)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1a0a2e?style=flat-square&logoColor=c084fc)
+
+**大地 — Data Layers**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0a2e?style=flat-square&logo=postgresql&logoColor=e879f9)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a0a2e?style=flat-square&logo=mongodb&logoColor=c084fc)
+![Redis](https://img.shields.io/badge/Redis-1a0a2e?style=flat-square&logo=redis&logoColor=a855f7)
+![MySQL](https://img.shields.io/badge/MySQL-1a0a2e?style=flat-square&logo=mysql&logoColor=e879f9)
+
+**花 — Frontend Arts**
+
+![React](https://img.shields.io/badge/React-1a0a2e?style=flat-square&logo=react&logoColor=e879f9)
+![Next.js](https://img.shields.io/badge/Next.js-1a0a2e?style=flat-square&logo=next.js&logoColor=c084fc)
+![Vite](https://img.shields.io/badge/Vite-1a0a2e?style=flat-square&logo=vite&logoColor=a855f7)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a0a2e?style=flat-square&logo=tailwindcss&logoColor=e879f9)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-1a0a2e?style=flat-square&logoColor=c084fc)
+
+**忍 — Infra & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-1a0a2e?style=flat-square&logo=docker&logoColor=e879f9)
+![AWS](https://img.shields.io/badge/AWS-1a0a2e?style=flat-square&logo=amazonaws&logoColor=c084fc)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-1a0a2e?style=flat-square&logo=apache-kafka&logoColor=a855f7)
+![Celery](https://img.shields.io/badge/Celery-1a0a2e?style=flat-square&logo=celery&logoColor=e879f9)
+![Linux](https://img.shields.io/badge/Linux-1a0a2e?style=flat-square&logo=linux&logoColor=c084fc)
 
 </div>
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
-## 🎨 Featured Projects
+```
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　三ノ型　•　THE BATTLE RECORDS
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+```
 
 <div align="center">
 
+### 📜 伝説の戦い — Legendary Battles (Projects)
+
+</div>
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 E-Commerce Operations Brain
-**Multi-Agent AI System**
+### 🤖 電子頭脳 — E-Commerce Operations Brain
+**多エージェント — Multi-Agent AI System**
 
-```python
-tech_stack = {
-    "orchestration": "LangGraph",
-    "backend": "Django REST Framework",
-    "ai": "Anthropic Claude",
-    "vector_db": "ChromaDB",
-    "queue": "Celery + Redis",
-    "impact": "Production-grade AI workflow"
-}
+```
+⛩️  架け橋 (Architecture Bridge)
+┌──────────────────────────────┐
+│  🧠  LangGraph Orchestrator  │
+│  ⚡  Celery + Redis Queue    │
+│  🏯  Django REST Framework   │
+│  🌀  ChromaDB Vector Store   │
+│  🤖  Anthropic Claude LLM    │
+└──────────────────────────────┘
 ```
 
-🎯 **Key Features:**
+**戦功 Battle Honours:**
 - Multi-agent task orchestration
-- Real-time decision making
-- Scalable async processing
-- Vector similarity search
+- Real-time AI decision engine
+- Vector similarity retrieval
+- Production-grade async pipelines
 
-[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shah48l)
+[![View on GitHub](https://img.shields.io/badge/⚔️_View_Battle-GitHub-e879f9?style=for-the-badge&labelColor=0a0a1a)](https://github.com/shah48l)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Production Portfolio Platform
-**Full-Stack Interactive Showcase**
+### 🚀 忍者の城 — Production Portfolio Platform
+**本格的なシステム — Full-Stack Fortress**
 
-```typescript
-const stack = {
-  frontend: ["React", "TypeScript", "Zustand"],
-  backend: ["FastAPI", "PostgreSQL", "Redis"],
-  realtime: "WebSockets",
-  deployment: "Docker + Nginx",
-  purpose: "Interview-ready artifact"
-}
+```
+⛩️  守りの構造 (Defense Structure)
+┌──────────────────────────────┐
+│  ⚛️  React + TypeScript      │
+│  ⚡  FastAPI Backend         │
+│  🗄️  PostgreSQL + Redis      │
+│  🌊  WebSockets Real-time    │
+│  🐳  Docker + Nginx Siege    │
+└──────────────────────────────┘
 ```
 
-🎯 **Key Features:**
-- Real-time collaboration features
-- Clean architecture patterns
+**戦功 Battle Honours:**
+- Real-time collaboration layer
 - Production-ready deployment
-- Interactive UI/UX
+- Clean architecture patterns
+- Interview-ready artifact
 
-[![Visit Live](https://img.shields.io/badge/Visit_Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://shahid-port.vercel.app/)
+[![Visit Dojo](https://img.shields.io/badge/🏯_Visit_Dojo-Live-c084fc?style=for-the-badge&labelColor=0a0a1a)](https://shahid-port.vercel.app/)
 
 </td>
 </tr>
 </table>
 
-### 📊 Real-Time Sentiment Analysis Engine
-> IEEE Published Research | PyTorch | Streaming Analytics | Production ML Pipeline
+<div align="center">
 
-[![Read Paper](https://img.shields.io/badge/📄_IEEE_Paper-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/)
+### 📜 感情分析の巻物 — Real-Time Sentiment Analysis
+**IEEE発行 — Published Research Scroll**
+
+> Multi-stream sentiment engine powered by PyTorch | Streaming Analytics | Production ML
+
+[![IEEE Paper](https://img.shields.io/badge/📜_IEEE_Scroll-Published_Feb_2025-e879f9?style=for-the-badge&labelColor=0a0a1a)](https://ieeexplore.ieee.org/)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
-## 📈 GitHub Performance Metrics
+```
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　四ノ型　•　THE POWER SCROLLS
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+```
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shah48l&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B&text_color=C9D1D9&ring_color=6366F1" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shah48l&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=F59E0B&fire=F59E0B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+### 📊 戦績 — Battle Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shah48l&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8&hide=html,css" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=shah48l&custom_title=Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=6366F1&line=F59E0B&point=C9D1D9&area_color=6366F1&title_color=6366F1&area=true" alt="Contribution Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shah48l&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a1a&title_color=e879f9&icon_color=c084fc&text_color=d8b4fe&ring_color=a855f7" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shah48l&theme=midnight-purple&hide_border=true&background=0a0a1a&stroke=e879f9&ring=c084fc&fire=e879f9&currStreakLabel=d8b4fe&sideLabels=d8b4fe&dates=a855f7" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shah48l&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a1a&title_color=e879f9&text_color=d8b4fe&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=shah48l&custom_title=%E2%9B%A9%EF%B8%8F%20Contribution%20Dojo&hide_border=true&bg_color=0a0a1a&color=e879f9&line=c084fc&point=ffffff&area_color=a855f7&title_color=e879f9&area=true" alt="Activity Graph"/>
+
+### 🏆 武勲 — War Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=shah48l&theme=onestar&no-frame=true&row=1&column=7&margin-w=5)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
-## 🏆 Achievements & Recognition
+```
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　五ノ型　•　THE HONOUR SCROLL
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+```
 
 <div align="center">
+
+### 🎖️ 名誉 — Honourable Achievements
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://github.com/user-attachments/assets/8636a47a-e987-4078-82d6-0c0c16d8845a" width="80" alt="Achievement"/>
-<br><b>IEEE Published</b>
-<br>Research in Real-Time ML
-<br>Feb 2025
+
+```
+  ┌───────────┐
+  │  ⛩️  IEEE  │
+  │ Published │
+  │  Scroll   │
+  └───────────┘
+```
+**Real-Time Sentiment Analysis**
+*IEEE Conference Publication*
+*February 2025*
+
 </td>
 <td align="center" width="33%">
-<img src="https://github.com/user-attachments/assets/8636a47a-e987-4078-82d6-0c0c16d8845a" width="80" alt="Achievement"/>
-<br><b>Conference Speaker</b>
-<br>PyConf Hyderabad
-<br>Presented on AI Systems
+
+```
+  ┌───────────┐
+  │ 🎤 PyConf │
+  │ Hyderabad │
+  │  Speaker  │
+  └───────────┘
+```
+**Conference Speaker**
+*AI Systems & Architecture*
+*Hyderabad Dojo*
+
 </td>
 <td align="center" width="33%">
-<img src="https://github.com/user-attachments/assets/8636a47a-e987-4078-82d6-0c0c16d8845a" width="80" alt="Achievement"/>
-<br><b>Production Impact</b>
-<br>Systems serving real users
-<br>EPAM Systems
+
+```
+  ┌───────────┐
+  │ 🏯  EPAM  │
+  │  Systems  │
+  │  Engineer │
+  └───────────┘
+```
+**Production Engineer**
+*Distributed Systems*
+*Hyderabad, India*
+
 </td>
 </tr>
 </table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
-## 💭 Philosophy & Approach
+```
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　六ノ型　•　THE TRAINING DOJO
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+```
+
+<div align="center">
+
+### 🗡️ 修行の道 — The Training Road Ahead
+
+| 修行 Discipline | 流派 School | 段位 Rank Target | 期限 Deadline |
+|:---:|:---:|:---:|:---:|
+| ⚙️ **Advanced Rust** | 鋼の道 Steel Path | 黒帯 Black Belt | Q2 2026 |
+| ☸️ **Kubernetes** | 天の道 Sky Path | 茶帯 Brown Belt | Q3 2026 |
+| 📡 **Event Sourcing** | 時の道 Time Path | 黒帯 Black Belt | Q2 2026 |
+| ⚡ **gRPC + Protobuf** | 雷の道 Thunder Path | 茶帯 Brown Belt | Q2 2026 |
+
+</div>
+
+---
+
+```
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　七ノ型　•　THE WARRIOR'S CREED
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+```
 
 <div align="center">
 
 ```rust
-fn engineering_principles() -> Vec<String> {
-    vec![
-        "Clean code is not written by following a set of rules. 
-         You don't become a software craftsman by learning a list of heuristics. 
-         Professionalism and craftsmanship come from values that drive disciplines.".to_string(),
-        
-        "Ship fast, iterate faster. 
-         Perfect is the enemy of shipped.".to_string(),
-        
-        "Build systems that scale. 
-         Design APIs that developers love. 
-         Write code that tells a story.".to_string(),
-    ]
+// 武士の信条 — The Warrior's Creed
+// Written in Rust, the Steel Language
+
+struct SamuraiCrafter {
+    name: &'static str,
+    path: &'static str,
 }
 
-// My commitment: Every line of code is an opportunity to solve a real problem.
+impl SamuraiCrafter {
+    fn creed(&self) -> [&'static str; 5] {
+        [
+            "切れ味  — Write code sharp enough to cut confusion.",
+            "静けさ  — Silent systems speak louder than noisy ones.",
+            "礼節    — Every API is a promise. Keep it.",
+            "不動    — When production breaks, breathe. Then fix.",
+            "道      — The path never ends. Keep walking.",
+        ]
+    }
+}
+
+fn main() {
+    let me = SamuraiCrafter {
+        name: "Shahid J",
+        path: "Backend + AI Engineering",
+    };
+
+    for principle in me.creed() {
+        println!("⚔️  {}", principle);
+    }
+
+    println!("\n🌸  May your builds be green and your deploys be clean.");
+}
 ```
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
-## 📚 Currently Exploring
-
-<div align="center">
-
-| 🔍 Learning | 🎯 Goal | 📅 Timeline |
-|------------|---------|------------|
-| **Advanced Rust** | Systems programming mastery | Q2 2026 |
-| **Event Sourcing** | Distributed system patterns | Q2 2026 |
-| **Kubernetes** | Container orchestration at scale | Q3 2026 |
-| **gRPC & Protobuf** | High-performance APIs | Q2 2026 |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🤝 Let's Build Something Amazing
+```
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　八ノ型　•　THE GATE OF CONTACT
+　　━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　　　　　　　　　　🌸　　　　🌸　　　🌸
+```
 
 <div align="center">
 
-**I'm always excited to collaborate on:**
+### 🏯 門 — The Gate is Open
 
-🚀 Distributed systems that scale  
-🤖 AI-powered applications with real impact  
-🌐 Open-source projects that matter  
-💡 Challenging problems that push boundaries
+*I welcome all who seek to build great systems, solve hard problems, or collaborate on work that matters.*
 
 <br>
 
-### 📫 Reach Out
+[![Email](https://img.shields.io/badge/📧_mjshahid48@gmail.com-Reach_Out-e879f9?style=for-the-badge&labelColor=0a0a1a)](mailto:mjshahid48@gmail.com)
 
-<a href="mailto:mjshahid48@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mjshahid48@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://shahid-port.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-shahid--port.vercel.app-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/shahidj2004/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐_shahid--port.vercel.app-Enter_the_Dojo-c084fc?style=for-the-badge&labelColor=0a0a1a)](https://shahid-port.vercel.app/)
+
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Join_the_Clan-a855f7?style=for-the-badge&labelColor=0a0a1a)](https://www.linkedin.com/in/shahidj2004/)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=shah48l&color=e879f9&style=for-the-badge&label=VISITORS+TO+THE+DOJO" alt="Dojo visitors"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shah48l&color=6366F1&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 💻 This Week's Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
-
-### ⚡ Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-</div>
-
----
-
-<div align="center">
-
-### 🎵 Vibing To
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=6366f1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> *「道は険しくとも、剣は折れない」*
+>
+> *"The path may be steep, but the sword does not break."*
 
 <br>
 
-**"The best error message is the one that never shows up."** — Thomas Fuchs
-
-<br>
-
-**Thanks for visiting! Let's ship something incredible together.** 🚀
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Cherry blossoms falling on the contribution garden" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a0a2e,100:2d0a2d&height=120&section=footer"/>
