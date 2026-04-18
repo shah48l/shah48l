@@ -1,178 +1,316 @@
 <div align="center">
 
-# 👋 Hey, I'm Shahid J
-
-### Backend Engineer | Distributed Systems | AI Integration Specialist
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+scalable+APIs+%26+production+services;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shahid-port.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjshahid48@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahidj2004/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shah48l)
+<!-- Animated Header with Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shahid%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Crafting%20Intelligence%20into%20Infrastructure&descAlignY=51&descAlign=50"/>
 
 </div>
+
+<div align="center">
+  
+<!-- Dynamic Typing with Multiple Lines -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=140&lines=Backend+Engineer+%F0%9F%9A%80;Building+AI-Powered+Distributed+Systems;Turning+Coffee+%E2%98%95+into+Production+Code;Based+in+India+%F0%9F%87%AE%F0%9F%87%B3+%7C+Impact+Worldwide+%F0%9F%8C%8D" alt="Typing SVG" /></a>
+
+</div>
+
+<!-- Animated Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-6366F1?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=1e293b" />
+  <img src="https://img.shields.io/badge/Specialty-AI%20Integration-F59E0B?style=for-the-badge&logo=openai&logoColor=white&labelColor=1e293b" />
+  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" />
+</p>
+
+<p align="center">
+  <a href="https://shahid-port.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Live_Now-FF5722?style=for-the-badge&logoColor=white" /></a>
+  <a href="mailto:mjshahid48@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Let's_Connect-EA4335?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shahidj2004/"><img src="https://img.shields.io/badge/💼_LinkedIn-Follow-0A66C2?style=for-the-badge&logoColor=white" /></a>
+</p>
 
 ---
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🎯 What I Do
+## 🎯 The Architect Behind the Code
 
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```mermaid
-graph LR
-    A[Complex Problems] -->|Design| B[Scalable Architecture]
-    B -->|Build| C[Production APIs]
-    C -->|Integrate| D[AI Systems]
-    D -->|Deploy| E[Distributed Services]
-    style A fill:#667eea,stroke:#764ba2,stroke-width:2px,color:#fff
-    style B fill:#f093fb,stroke:#f5576c,stroke-width:2px,color:#fff
-    style C fill:#4facfe,stroke:#00f2fe,stroke-width:2px,color:#fff
-    style D fill:#43e97b,stroke:#38f9d7,stroke-width:2px,color:#fff
-    style E fill:#fa709a,stroke:#fee140,stroke-width:2px,color:#fff
+### 🏗️ What I Build
+
+```yaml
+role: Backend Engineer
+mission: Transform complex distributed systems into elegant solutions
+
+expertise:
+  architecture:
+    - Microservices Orchestration
+    - Event-Driven Systems
+    - High-Throughput APIs
+    - Real-Time Data Pipelines
+  
+  ai_integration:
+    - Multi-Agent LLM Systems
+    - RAG Architectures
+    - ML Model Deployment
+    - Production AI Pipelines
+
+current_stack:
+  backend: [Python, FastAPI, Django, GraphQL]
+  ai_ml: [LangChain, LangGraph, PyTorch, Anthropic Claude]
+  data: [PostgreSQL, MongoDB, Redis, ChromaDB]
+  infra: [Docker, AWS, Celery, Kafka]
 ```
 
-<div align="center">
-
-### 🚀 Core Expertise
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**🏗️ Backend Architecture**
-- Distributed Systems Design
-- RESTful & GraphQL APIs
-- Microservices Orchestration
-- Event-Driven Architecture
-
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-**🤖 AI Integration**
-- LLM-Powered Applications
-- Multi-Agent Systems
-- RAG Implementations
-- Production ML Pipelines
+### 🚀 Current Mission
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding">
+
+**🎯 Short-term Goals**
+- 📈 Scaling AI systems to production
+- 🔧 Contributing to Rust ecosystem
+- 📚 IEEE research on distributed ML
+
+**🌟 Long-term Vision**
+- Build systems that process billions of events
+- Lead engineering teams solving hard problems
+- Open-source tools that developers love
+
+**📊 Impact**
+- 🏆 IEEE Published Researcher
+- 🎤 PyConf Hyderabad Speaker
+- 💻 Production systems serving real users
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 💻 Tech Arsenal
+
+<details open>
+<summary><b>🔥 Core Technologies (Click to expand)</b></summary>
+<br>
 
 <div align="center">
 
-## 🛠️ Technology Arsenal
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-Learning-000000?style=flat-square&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-Intermediate-FA7343?style=flat-square&logo=swift&logoColor=white) |
+| **Backend Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| **AI & ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square) ![Anthropic](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Message Queues** | ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) |
 
 </div>
 
-<div align="center">
+</details>
 
-### Languages & Core
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### Backend & APIs
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
-
-### AI & ML
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
-</p>
-
-### Frontend & UI
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
-</p>
-
-### Infrastructure & DevOps
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-</p>
-
-</div>
-
----
+## 🎨 Featured Projects
 
 <div align="center">
 
-## 📊 GitHub Analytics
+<table>
+<tr>
+<td width="50%">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shah48l&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shah48l&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=F59E0B&fire=F59E0B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shah48l&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎨 Current Focus
+### 🤖 E-Commerce Operations Brain
+**Multi-Agent AI System**
 
 ```python
-class Shahid:
-    def __init__(self):
-        self.role = "Backend Engineer"
-        self.location = "India 🇮🇳"
-        self.current_focus = [
-            "Building AI-integrated distributed systems",
-            "Scaling production APIs for real-world impact",
-            "Contributing to open-source projects",
-            "Exploring Rust for systems programming"
-        ]
-        self.learning = ["Advanced Rust", "Kubernetes", "Event Sourcing"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+tech_stack = {
+    "orchestration": "LangGraph",
+    "backend": "Django REST Framework",
+    "ai": "Anthropic Claude",
+    "vector_db": "ChromaDB",
+    "queue": "Celery + Redis",
+    "impact": "Production-grade AI workflow"
+}
+```
 
-me = Shahid()
-me.say_hi()
+🎯 **Key Features:**
+- Multi-agent task orchestration
+- Real-time decision making
+- Scalable async processing
+- Vector similarity search
+
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shah48l)
+
+</td>
+<td width="50%">
+
+### 🚀 Production Portfolio Platform
+**Full-Stack Interactive Showcase**
+
+```typescript
+const stack = {
+  frontend: ["React", "TypeScript", "Zustand"],
+  backend: ["FastAPI", "PostgreSQL", "Redis"],
+  realtime: "WebSockets",
+  deployment: "Docker + Nginx",
+  purpose: "Interview-ready artifact"
+}
+```
+
+🎯 **Key Features:**
+- Real-time collaboration features
+- Clean architecture patterns
+- Production-ready deployment
+- Interactive UI/UX
+
+[![Visit Live](https://img.shields.io/badge/Visit_Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://shahid-port.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+### 📊 Real-Time Sentiment Analysis Engine
+> IEEE Published Research | PyTorch | Streaming Analytics | Production ML Pipeline
+
+[![Read Paper](https://img.shields.io/badge/📄_IEEE_Paper-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 📈 GitHub Performance Metrics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shah48l&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B&text_color=C9D1D9&ring_color=6366F1" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shah48l&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=F59E0B&fire=F59E0B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shah48l&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8&hide=html,css" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=shah48l&custom_title=Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=6366F1&line=F59E0B&point=C9D1D9&area_color=6366F1&title_color=6366F1&area=true" alt="Contribution Graph"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://github.com/user-attachments/assets/8636a47a-e987-4078-82d6-0c0c16d8845a" width="80" alt="Achievement"/>
+<br><b>IEEE Published</b>
+<br>Research in Real-Time ML
+<br>Feb 2025
+</td>
+<td align="center" width="33%">
+<img src="https://github.com/user-attachments/assets/8636a47a-e987-4078-82d6-0c0c16d8845a" width="80" alt="Achievement"/>
+<br><b>Conference Speaker</b>
+<br>PyConf Hyderabad
+<br>Presented on AI Systems
+</td>
+<td align="center" width="33%">
+<img src="https://github.com/user-attachments/assets/8636a47a-e987-4078-82d6-0c0c16d8845a" width="80" alt="Achievement"/>
+<br><b>Production Impact</b>
+<br>Systems serving real users
+<br>EPAM Systems
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 💭 Philosophy & Approach
+
+<div align="center">
+
+```rust
+fn engineering_principles() -> Vec<String> {
+    vec![
+        "Clean code is not written by following a set of rules. 
+         You don't become a software craftsman by learning a list of heuristics. 
+         Professionalism and craftsmanship come from values that drive disciplines.".to_string(),
+        
+        "Ship fast, iterate faster. 
+         Perfect is the enemy of shipped.".to_string(),
+        
+        "Build systems that scale. 
+         Design APIs that developers love. 
+         Write code that tells a story.".to_string(),
+    ]
+}
+
+// My commitment: Every line of code is an opportunity to solve a real problem.
 ```
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 📚 Currently Exploring
 
 <div align="center">
 
-## 💡 Featured Projects
+| 🔍 Learning | 🎯 Goal | 📅 Timeline |
+|------------|---------|------------|
+| **Advanced Rust** | Systems programming mastery | Q2 2026 |
+| **Event Sourcing** | Distributed system patterns | Q2 2026 |
+| **Kubernetes** | Container orchestration at scale | Q3 2026 |
+| **gRPC & Protobuf** | High-performance APIs | Q2 2026 |
 
-### 🛒 E-Commerce Operations Brain
-> Multi-agent AI system with LangGraph orchestration | Django REST | ChromaDB | Celery | Redis
+</div>
 
-### 🚀 Production Portfolio Platform
-> Full-stack app with real-time features | React/TypeScript | FastAPI | PostgreSQL | WebSockets
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 📝 Real-Time Sentiment Analysis
-> IEEE-published research implementation | PyTorch | Streaming Analytics
+## 🤝 Let's Build Something Amazing
+
+<div align="center">
+
+**I'm always excited to collaborate on:**
+
+🚀 Distributed systems that scale  
+🤖 AI-powered applications with real impact  
+🌐 Open-source projects that matter  
+💡 Challenging problems that push boundaries
+
+<br>
+
+### 📫 Reach Out
+
+<a href="mailto:mjshahid48@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mjshahid48@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://shahid-port.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-shahid--port.vercel.app-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shahidj2004/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=shah48l&color=6366F1&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 💻 This Week's Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+
+### ⚡ Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 </div>
 
@@ -180,20 +318,30 @@ me.say_hi()
 
 <div align="center">
 
-## 🌐 Let's Connect
+### 🎵 Vibing To
 
-I'm always excited to collaborate on interesting projects, discuss system design, or talk about the latest in AI and distributed systems.
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=6366f1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
 
-**📧 Reach out:** [mjshahid48@gmail.com](mailto:mjshahid48@gmail.com)  
-**🌍 Portfolio:** [shahid-port.vercel.app](https://shahid-port.vercel.app)  
-**💼 Professional Network:** [LinkedIn](https://www.linkedin.com/in/shahidj2004/)
-
-<img src="https://komarev.com/ghpvc/?username=shah48l&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
 
 ---
 
-### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br>
+
+**"The best error message is the one that never shows up."** — Thomas Fuchs
+
+<br>
+
+**Thanks for visiting! Let's ship something incredible together.** 🚀
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
 
 </div>
